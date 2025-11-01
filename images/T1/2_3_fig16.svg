@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2025-10-30 19:43:16 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="138pt" height="71pt"
+	viewBox="258 1275 2184 1122">
+<g fill="none">
+<!-- Line -->
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M 258,1275 H 2442 V 2397 H 258 z
+		M 2335,2235 2350,2250 2335,2265 2437,2257 2437,2243z"/>
+</clipPath>
+</defs>
+<polyline points=" 270,2250 2430,2250" clip-path="url(#cp0)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 2430,2250 -->
+<polygon points=" 2335,2265 2410,2250 2335,2235 2350,2250 2335,2265"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp1">
+	<path clip-rule="evenodd" d="M 258,1275 H 2442 V 2397 H 258 z
+		M 1335,1397 1350,1382 1365,1397 1357,1295 1343,1295z"/>
+</clipPath>
+</defs>
+<polyline points=" 1350,2385 1350,1302" clip-path="url(#cp1)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 1350,1302 -->
+<polygon points=" 1365,1397 1350,1322 1335,1397 1350,1382 1365,1397"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<polyline points=" 360,1620 1350,2250 2340,1620"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Text -->
+<text xml:space="preserve" x="1440" y="1440" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="156" text-anchor="start">Velocidad de variaci\'on</text>
+<!-- Text -->
+<text xml:space="preserve" x="2340" y="2205" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="156" text-anchor="start">\omega</text>
+</g>
+</svg>

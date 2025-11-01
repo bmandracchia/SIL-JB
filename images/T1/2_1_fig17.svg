@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2025-10-30 19:43:16 -->
+<!-- Magnification: 1 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="105pt" height="82pt"
+	viewBox="5013 5088 1749 1351">
+<g fill="none">
+<!-- Line -->
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M 5013,5088 H 6762 V 6439 H 5013 z
+		M 5153,5232 5175,5210 5198,5232 5182,5093 5168,5093z"/>
+</clipPath>
+</defs>
+<polyline points=" 5175,6300 5175,5100" clip-path="url(#cp0)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 5175,5100 -->
+<polygon points=" 5198,5232 5175,5120 5153,5232 5175,5210 5198,5232"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp1">
+	<path clip-rule="evenodd" d="M 5013,5088 H 6762 V 6439 H 5013 z
+		M 6618,6128 6640,6150 6618,6173 6757,6157 6757,6143z"/>
+</clipPath>
+</defs>
+<polyline points=" 5025,6150 6750,6150" clip-path="url(#cp1)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 6750,6150 -->
+<polygon points=" 6618,6173 6730,6150 6618,6128 6640,6150 6618,6173"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<polyline points=" 5400,6150 5400,5700 6300,5700 6300,6150"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Text -->
+<text xml:space="preserve" x="5400" y="6375" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="6300" y="6375" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">2</text>
+<!-- Text -->
+<text xml:space="preserve" x="5250" y="5775" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="6675" y="6075" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">t</text>
+<!-- Text -->
+<text xml:space="preserve" x="5250" y="5250" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">x(t)</text>
+</g>
+</svg>

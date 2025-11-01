@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2025-10-30 19:43:16 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="133pt" height="80pt"
+	viewBox="660 -192 2100 1264">
+<g fill="none">
+<!-- Line -->
+<polyline points=" 2010,90 1872,90 1849,19 1803,162 1757,19 1712,162 1666,19 1620,162 1574,19 1529,162
+ 1506,90 1367,90"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 904,544 904,446"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 951,497 853,497"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 904,544 904,446"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 951,640 853,640"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 900,405 900,90 1395,90"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 900,720 900,1035 2700,1035"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 1980,90 2700,90"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 1350,315 1352,315 1357,314 1365,312 1378,310 1394,308 1415,305 1438,302 1464,299
+ 1492,297 1521,295 1551,294 1581,294 1611,296 1642,300 1674,306 1706,315 1738,326
+ 1770,341 1800,360 1828,382 1851,405 1871,429 1887,454 1899,478 1910,503 1917,527
+ 1923,552 1928,576 1931,600 1933,624 1934,645 1935,665 1935,683 1935,697 1935,720
+"
+	stroke="#000000" stroke-width="8px" stroke-linejoin="bevel"/>
+<!-- Text -->
+<text xml:space="preserve" x="1620" y="-45" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">R</text>
+<!-- Text -->
+<text xml:space="preserve" x="2745" y="270" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="96" text-anchor="middle">+</text>
+<!-- Text -->
+<text xml:space="preserve" x="2745" y="990" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="96" text-anchor="middle">-</text>
+<!-- Text -->
+<text xml:space="preserve" x="1620" y="540" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">i</text>
+<!-- Text -->
+<text xml:space="preserve" x="675" y="630" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="end">v<tspan font-size="96" baseline-shift="sub">s</tspan></text>
+<!-- Text -->
+<text xml:space="preserve" x="2700" y="630" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">v<tspan font-size="96" baseline-shift="sub">c</tspan></text>
+<!-- Line -->
+<polyline points=" 2135,496 2420,496"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 2278,89 2278,496"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 2278,567 2278,1034"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 2135,567 2420,567"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2717" cy="92" r="28" fill="#000000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="2717" cy="1037" r="28" fill="#000000"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Circle -->
+<circle cx="904" cy="568" r="157"
+	stroke="#000000" stroke-width="8px"/>
+</g>
+</svg>

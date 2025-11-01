@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2025-10-30 19:43:17 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="201pt" height="29pt"
+	viewBox="1200 1359 3180 453">
+<g fill="none">
+<!-- Line -->
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M 1200,1359 H 4380 V 1812 H 1200 z
+		M 1540,1590 1570,1620 1540,1650 1717,1627 1717,1613z"/>
+</clipPath>
+</defs>
+<polyline points=" 1260,1620 1710,1620" clip-path="url(#cp0)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 1710,1620 -->
+<polygon points=" 1540,1650 1690,1620 1540,1590 1570,1620 1540,1650"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp1">
+	<path clip-rule="evenodd" d="M 1200,1359 H 4380 V 1812 H 1200 z
+		M 3025,1590 3055,1620 3025,1650 3202,1627 3202,1613z"/>
+</clipPath>
+</defs>
+<polyline points=" 2340,1620 3195,1620" clip-path="url(#cp1)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 3195,1620 -->
+<polygon points=" 3025,1650 3175,1620 3025,1590 3055,1620 3025,1650"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<rect x="1710" y="1440" width="630" height="360"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="3240" y="1440" width="630" height="360"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp2">
+	<path clip-rule="evenodd" d="M 1200,1359 H 4380 V 1812 H 1200 z
+		M 4150,1590 4180,1620 4150,1650 4327,1627 4327,1613z"/>
+</clipPath>
+</defs>
+<polyline points=" 3870,1620 4320,1620" clip-path="url(#cp2)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 4320,1620 -->
+<polygon points=" 4150,1650 4300,1620 4150,1590 4180,1620 4150,1650"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Text -->
+<text xml:space="preserve" x="1215" y="1665" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="end">x(t)</text>
+<!-- Text -->
+<text xml:space="preserve" x="2025" y="1665" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">T<tspan font-size="96" baseline-shift="sub">1</tspan></text>
+<!-- Text -->
+<text xml:space="preserve" x="3555" y="1665" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">T<tspan font-size="96" baseline-shift="sub">2</tspan></text>
+<!-- Text -->
+<text xml:space="preserve" x="4365" y="1665" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">z(t)</text>
+<!-- Text -->
+<text xml:space="preserve" x="2745" y="1530" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">y(t)</text>
+</g>
+</svg>

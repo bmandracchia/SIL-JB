@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2025-10-30 19:43:16 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="269pt" height="169pt"
+	viewBox="-555 1248 4260 2673">
+<g fill="none">
+<!-- Line -->
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M -555,1248 H 3705 V 3921 H -555 z
+		M 3055,2235 3070,2250 3055,2265 3157,2257 3157,2243z"/>
+</clipPath>
+</defs>
+<polyline points=" -360,2250 3150,2250" clip-path="url(#cp0)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 3150,2250 -->
+<polygon points=" 3055,2265 3130,2250 3055,2235 3070,2250 3055,2265"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<polyline points=" -360,1710 540,1710 540,2250"
+	stroke="#000000" stroke-width="8px" stroke-dasharray="40 40"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp1">
+	<path clip-rule="evenodd" d="M -555,1248 H 3705 V 3921 H -555 z
+		M 3055,3675 3070,3690 3055,3705 3157,3697 3157,3683z"/>
+</clipPath>
+</defs>
+<polyline points=" -360,3690 3150,3690" clip-path="url(#cp1)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 3150,3690 -->
+<polygon points=" 3055,3705 3130,3690 3055,3675 3070,3690 3055,3705"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<polyline points=" -360,3150 2430,3150 2430,3690"
+	stroke="#000000" stroke-width="8px" stroke-dasharray="40 40"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp2">
+	<path clip-rule="evenodd" d="M -555,1248 H 3705 V 3921 H -555 z
+		M 1605,1355 1620,1340 1635,1355 1627,1253 1613,1253z"/>
+</clipPath>
+</defs>
+<polyline points=" 1620,2340 1620,1260" clip-path="url(#cp2)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 1620,1260 -->
+<polygon points=" 1635,1355 1620,1280 1605,1355 1620,1340 1635,1355"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp3">
+	<path clip-rule="evenodd" d="M -555,1248 H 3705 V 3921 H -555 z
+		M 1605,2795 1620,2780 1635,2795 1627,2693 1613,2693z"/>
+</clipPath>
+</defs>
+<polyline points=" 1620,3780 1620,2700" clip-path="url(#cp3)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 1620,2700 -->
+<polygon points=" 1635,2795 1620,2720 1605,2795 1620,2780 1635,2795"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Text -->
+<text xml:space="preserve" x="1620" y="2430" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="96" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="1620" y="3870" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="96" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="540" y="2430" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="96" text-anchor="middle">t</text>
+<!-- Text -->
+<text xml:space="preserve" x="-540" y="1575" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">Intervalo de integraci\'on</text>
+<!-- Text -->
+<text xml:space="preserve" x="-540" y="3060" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="120" text-anchor="start">Intervalo de integraci\'on</text>
+<!-- Text -->
+<text xml:space="preserve" x="2430" y="3870" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="96" text-anchor="middle">t</text>
+<!-- Text -->
+<text xml:space="preserve" x="1485" y="1845" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="132" text-anchor="end">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="1530" y="3330" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="132" text-anchor="end">1</text>
+<!-- Line -->
+<defs>
+<clipPath id="cp4">
+	<path clip-rule="evenodd" d="M -555,1248 H 3705 V 3921 H -555 z
+		M 1590,1925 1620,1895 1650,1925 1631,1745 1610,1745z"/>
+</clipPath>
+</defs>
+<polyline points=" 1620,2250 1620,1755" clip-path="url(#cp4)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Forward arrow to point 1620,1755 -->
+<polygon points=" 1650,1925 1620,1775 1590,1925 1620,1895 1650,1925"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp5">
+	<path clip-rule="evenodd" d="M -555,1248 H 3705 V 3921 H -555 z
+		M 1590,3365 1620,3335 1650,3365 1631,3185 1610,3185z"/>
+</clipPath>
+</defs>
+<polyline points=" 1620,3690 1620,3195" clip-path="url(#cp5)"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Forward arrow to point 1620,3195 -->
+<polygon points=" 1650,3365 1620,3215 1590,3365 1620,3335 1650,3365"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Text -->
+<text xml:space="preserve" x="3690" y="1800" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="132" text-anchor="start">t&lt;0\ \rightarrow\ u(t)=0,</text>
+<!-- Text -->
+<text xml:space="preserve" x="3060" y="2205" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="132" text-anchor="start">\tau</text>
+<!-- Text -->
+<text xml:space="preserve" x="1665" y="1620" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="132" text-anchor="start">\delta(\tau)</text>
+<!-- Text -->
+<text xml:space="preserve" x="1665" y="3105" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="132" text-anchor="start">\delta(\tau)</text>
+<!-- Text -->
+<text xml:space="preserve" x="3690" y="3240" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="132" text-anchor="start">t&gt;0\ \rightarrow\ u(t)=1.</text>
+<!-- Text -->
+<text xml:space="preserve" x="3060" y="3645" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="132" text-anchor="start">\tau</text>
+</g>
+</svg>

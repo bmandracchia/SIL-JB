@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2025-10-30 19:43:17 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="187pt" height="70pt"
+	viewBox="570 1428 2955 1104">
+<g fill="none">
+<!-- Line -->
+<rect x="1710" y="2160" width="630" height="360"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Text -->
+<text xml:space="preserve" x="2025" y="2385" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">T<tspan font-size="96" baseline-shift="sub">2</tspan></text>
+<!-- Line -->
+<polyline points=" 1158,1537 1158,1683"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 1235,1605 1089,1604"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="1710" y="1440" width="630" height="360"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M 570,1428 H 3525 V 2532 H 570 z
+		M 2510,2370 2480,2340 2510,2310 2333,2333 2333,2347z"/>
+</clipPath>
+</defs>
+<polyline points=" 2790,1620 2790,2340 2340,2340" clip-path="url(#cp0)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 2340,2340 -->
+<polygon points=" 2510,2310 2360,2340 2510,2370 2480,2340 2510,2310"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp1">
+	<path clip-rule="evenodd" d="M 570,1428 H 3525 V 2532 H 570 z
+		M 3070,1590 3100,1620 3070,1650 3247,1627 3247,1613z"/>
+</clipPath>
+</defs>
+<polyline points=" 2340,1620 3240,1620" clip-path="url(#cp1)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 3240,1620 -->
+<polygon points=" 3070,1650 3220,1620 3070,1590 3100,1620 3070,1650"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp2">
+	<path clip-rule="evenodd" d="M 570,1428 H 3525 V 2532 H 570 z
+		M 1140,1880 1170,1850 1200,1880 1177,1703 1163,1703z"/>
+</clipPath>
+</defs>
+<polyline points=" 1710,2340 1170,2340 1170,1710" clip-path="url(#cp2)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 1170,1710 -->
+<polygon points=" 1200,1880 1170,1730 1140,1880 1170,1850 1200,1880"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp3">
+	<path clip-rule="evenodd" d="M 570,1428 H 3525 V 2532 H 570 z
+		M 1540,1590 1570,1620 1540,1650 1717,1627 1717,1613z"/>
+</clipPath>
+</defs>
+<polyline points=" 1260,1620 1710,1620" clip-path="url(#cp3)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 1710,1620 -->
+<polygon points=" 1540,1650 1690,1620 1540,1590 1570,1620 1540,1650"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp4">
+	<path clip-rule="evenodd" d="M 570,1428 H 3525 V 2532 H 570 z
+		M 910,1590 940,1620 910,1650 1087,1627 1087,1613z"/>
+</clipPath>
+</defs>
+<polyline points=" 630,1620 1080,1620" clip-path="url(#cp4)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 1080,1620 -->
+<polygon points=" 910,1650 1060,1620 910,1590 940,1620 910,1650"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Text -->
+<text xml:space="preserve" x="2025" y="1665" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">T<tspan font-size="96" baseline-shift="sub">1</tspan></text>
+<!-- Text -->
+<text xml:space="preserve" x="3510" y="1665" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">y(t)</text>
+<!-- Text -->
+<text xml:space="preserve" x="585" y="1665" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="end">x(t)</text>
+<!-- Circle -->
+<circle cx="1157" cy="1607" r="103"
+	stroke="#000000" stroke-width="8px"/>
+</g>
+</svg>

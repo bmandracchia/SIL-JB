@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2025-10-30 19:43:17 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="229pt" height="47pt"
+	viewBox="1200 1248 3630 744">
+<g fill="none">
+<!-- Line -->
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M 1200,1248 H 4830 V 1992 H 1200 z
+		M 1540,1590 1570,1620 1540,1650 1717,1627 1717,1613z"/>
+</clipPath>
+</defs>
+<polyline points=" 1260,1620 1710,1620" clip-path="url(#cp0)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 1710,1620 -->
+<polygon points=" 1540,1650 1690,1620 1540,1590 1570,1620 1540,1650"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp1">
+	<path clip-rule="evenodd" d="M 1200,1248 H 4830 V 1992 H 1200 z
+		M 2620,1590 2650,1620 2620,1650 2797,1627 2797,1613z"/>
+</clipPath>
+</defs>
+<polyline points=" 2340,1620 2790,1620" clip-path="url(#cp1)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 2790,1620 -->
+<polygon points=" 2620,1650 2770,1620 2620,1590 2650,1620 2620,1650"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<rect x="1710" y="1440" width="630" height="360"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Text -->
+<text xml:space="preserve" x="2025" y="1665" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">T</text>
+<!-- Line -->
+<defs>
+<clipPath id="cp2">
+	<path clip-rule="evenodd" d="M 1200,1248 H 4830 V 1992 H 1200 z
+		M 3520,1590 3550,1620 3520,1650 3697,1627 3697,1613z"/>
+</clipPath>
+</defs>
+<polyline points=" 3240,1620 3690,1620" clip-path="url(#cp2)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 3690,1620 -->
+<polygon points=" 3520,1650 3670,1620 3520,1590 3550,1620 3520,1650"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp3">
+	<path clip-rule="evenodd" d="M 1200,1248 H 4830 V 1992 H 1200 z
+		M 4600,1590 4630,1620 4600,1650 4777,1627 4777,1613z"/>
+</clipPath>
+</defs>
+<polyline points=" 4320,1620 4770,1620" clip-path="url(#cp3)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 4770,1620 -->
+<polygon points=" 4600,1650 4750,1620 4600,1590 4630,1620 4600,1650"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<rect x="3690" y="1440" width="630" height="360"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Text -->
+<text xml:space="preserve" x="4005" y="1665" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">T<tspan font-size="96" baseline-shift="super">-1</tspan></text>
+<!-- Line -->
+<rect x="1440" y="1260" width="3060" height="720"
+	stroke="#000000" stroke-width="8px" stroke-dasharray="40 40"/>
+<!-- Text -->
+<text xml:space="preserve" x="1215" y="1665" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="end">x(t)</text>
+<!-- Text -->
+<text xml:space="preserve" x="3015" y="1665" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">y(t)</text>
+<!-- Text -->
+<text xml:space="preserve" x="4815" y="1665" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">w(t)=x(t)</text>
+</g>
+</svg>

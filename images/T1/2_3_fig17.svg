@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2025-10-30 19:43:16 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="181pt" height="81pt"
+	viewBox="33 1275 2859 1273">
+<g fill="none">
+<!-- Line -->
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M 33,1275 H 2892 V 2548 H 33 z
+		M 1335,1400 1350,1385 1365,1400 1357,1298 1343,1298z"/>
+</clipPath>
+</defs>
+<polyline points=" 1350,2385 1350,1305" clip-path="url(#cp0)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 1350,1305 -->
+<polygon points=" 1365,1400 1350,1325 1335,1400 1350,1385 1365,1400"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp1">
+	<path clip-rule="evenodd" d="M 33,1275 H 2892 V 2548 H 33 z
+		M 2785,2235 2800,2250 2785,2265 2887,2257 2887,2243z"/>
+</clipPath>
+</defs>
+<polyline points=" 45,2250 2880,2250" clip-path="url(#cp1)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 2880,2250 -->
+<polygon points=" 2785,2265 2860,2250 2785,2235 2800,2250 2785,2265"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<polyline points=" 2520,2070 2430,2250 2160,1620 1890,2250 1620,1620 1350,2250 1080,1620 810,2250
+ 540,1620 270,2250 180,2070"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 1620,2205 1620,2295"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<polyline points=" 1080,2205 1080,2295"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Text -->
+<text xml:space="preserve" x="1440" y="1440" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="156" text-anchor="start">Velocidad de variaci\'on</text>
+<!-- Text -->
+<text xml:space="preserve" x="2790" y="2205" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="156" text-anchor="start">\Omega</text>
+<!-- Text -->
+<text xml:space="preserve" x="1035" y="2115" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="132" text-anchor="middle">-\pi</text>
+<!-- Text -->
+<text xml:space="preserve" x="1620" y="2115" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="132" text-anchor="middle">\pi</text>
+<!-- Text -->
+<text xml:space="preserve" x="1890" y="2475" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="132" text-anchor="middle">2\pi</text>
+<!-- Text -->
+<text xml:space="preserve" x="765" y="2475" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="132" text-anchor="middle">-2\pi</text>
+</g>
+</svg>

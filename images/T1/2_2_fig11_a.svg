@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2025-10-30 19:43:16 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="371pt" height="277pt"
+	viewBox="-1362 348 5874 4396">
+<g fill="none">
+<!-- Line -->
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M -1362,348 H 4512 V 4744 H -1362 z
+		M 775,510 805,540 775,570 952,547 952,533z"/>
+</clipPath>
+</defs>
+<polyline points=" 405,540 945,540" clip-path="url(#cp0)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 945,540 -->
+<polygon points=" 775,570 925,540 775,510 805,540 775,570"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp1">
+	<path clip-rule="evenodd" d="M -1362,348 H 4512 V 4744 H -1362 z
+		M 1675,510 1705,540 1675,570 1852,547 1852,533z"/>
+</clipPath>
+</defs>
+<polyline points=" 1395,540 1845,540" clip-path="url(#cp1)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 1845,540 -->
+<polygon points=" 1675,570 1825,540 1675,510 1705,540 1675,570"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<rect x="945" y="360" width="450" height="360"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Text -->
+<text xml:space="preserve" x="1170" y="585" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">T</text>
+<!-- Text -->
+<text xml:space="preserve" x="360" y="585" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="end">x(t)</text>
+<!-- Text -->
+<text xml:space="preserve" x="1935" y="585" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">x(at)</text>
+<!-- Line -->
+<defs>
+<clipPath id="cp2">
+	<path clip-rule="evenodd" d="M -1362,348 H 4512 V 4744 H -1362 z
+		M 1148,1347 1170,1325 1193,1347 1177,1208 1163,1208z"/>
+</clipPath>
+</defs>
+<polyline points=" 1170,2385 1170,1215" clip-path="url(#cp2)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 1170,1215 -->
+<polygon points=" 1193,1347 1170,1235 1148,1347 1170,1325 1193,1347"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp3">
+	<path clip-rule="evenodd" d="M -1362,348 H 4512 V 4744 H -1362 z
+		M 2388,2228 2410,2250 2388,2273 2527,2257 2527,2243z"/>
+</clipPath>
+</defs>
+<polyline points=" 90,2250 2520,2250" clip-path="url(#cp3)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 2520,2250 -->
+<polygon points=" 2388,2273 2500,2250 2388,2228 2410,2250 2388,2273"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<polyline points=" 450,2250 451,2247 454,2241 459,2230 467,2214 477,2192 490,2164 506,2131 523,2094
+ 542,2054 562,2014 582,1973 602,1933 621,1895 639,1860 657,1827 673,1797 688,1770
+ 702,1746 715,1725 728,1707 739,1691 750,1677 760,1666 770,1657 780,1650 792,1643
+ 804,1639 816,1637 828,1638 839,1641 851,1646 862,1653 874,1663 885,1673 896,1686
+ 907,1699 917,1714 927,1729 937,1744 947,1760 956,1775 965,1789 973,1804 982,1817
+ 990,1830 1002,1847 1014,1863 1026,1877 1039,1891 1053,1903 1067,1915 1081,1926
+ 1095,1935 1110,1944 1124,1951 1138,1957 1151,1963 1164,1968 1178,1973 1191,1977
+ 1205,1981 1219,1985 1235,1989 1250,1992 1267,1996 1284,1998 1300,2001 1317,2002
+ 1334,2004 1350,2004 1365,2004 1380,2004 1395,2003 1410,2001 1425,1999 1441,1996
+ 1457,1993 1474,1991 1491,1988 1509,1986 1526,1985 1544,1985 1561,1986 1578,1988
+ 1595,1991 1611,1996 1628,2003 1640,2009 1653,2016 1667,2026 1681,2037 1697,2050
+ 1714,2065 1732,2083 1752,2103 1774,2124 1796,2147 1818,2171 1839,2193 1857,2213
+ 1871,2229 1881,2240 1887,2247 1890,2250"
+	stroke="#000000" stroke-width="15px" stroke-linejoin="bevel"/>
+<!-- Text -->
+<text xml:space="preserve" x="2430" y="2160" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">t</text>
+<!-- Text -->
+<text xml:space="preserve" x="1260" y="1350" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">x(t)</text>
+<!-- Text -->
+<text xml:space="preserve" x="1215" y="2475" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="1890" y="2475" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">t<tspan font-size="96" baseline-shift="sub">0</tspan></text>
+<!-- Line -->
+<defs>
+<clipPath id="cp4">
+	<path clip-rule="evenodd" d="M -1362,348 H 4512 V 4744 H -1362 z
+		M -292,3462 -270,3440 -247,3462 -263,3323 -277,3323z"/>
+</clipPath>
+</defs>
+<polyline points=" -270,4500 -270,3330" clip-path="url(#cp4)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point -270,3330 -->
+<polygon points=" -247,3462 -270,3350 -292,3462 -270,3440 -247,3462"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp5">
+	<path clip-rule="evenodd" d="M -1362,348 H 4512 V 4744 H -1362 z
+		M 948,4343 970,4365 948,4388 1087,4372 1087,4358z"/>
+</clipPath>
+</defs>
+<polyline points=" -1350,4365 1080,4365" clip-path="url(#cp5)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 1080,4365 -->
+<polygon points=" 948,4388 1060,4365 948,4343 970,4365 948,4388"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<polyline points=" -631,4365 -630,4362 -628,4354 -625,4341 -621,4320 -614,4293 -606,4260 -597,4221
+ -587,4179 -577,4136 -566,4091 -555,4048 -545,4007 -535,3969 -526,3934 -517,3902
+ -509,3875 -502,3850 -495,3829 -488,3811 -482,3796 -477,3783 -471,3773 -466,3765
+ -459,3758 -453,3753 -446,3752 -440,3754 -433,3758 -427,3766 -420,3775 -414,3787
+ -408,3801 -402,3816 -396,3832 -391,3849 -385,3866 -380,3883 -375,3900 -370,3916
+ -366,3931 -361,3945 -354,3965 -347,3983 -340,3999 -332,4014 -324,4028 -315,4041
+ -307,4052 -299,4061 -291,4069 -283,4076 -275,4082 -267,4088 -258,4094 -248,4099
+ -237,4105 -226,4109 -214,4113 -203,4116 -191,4118 -180,4119 -169,4119 -159,4118
+ -150,4115 -141,4113 -132,4110 -122,4106 -112,4104 -102,4101 -92,4100 -81,4100
+ -71,4102 -61,4105 -52,4110 -42,4118 -35,4125 -28,4134 -20,4145 -12,4158 -2,4174
+ 8,4193 19,4215 31,4239 43,4265 56,4292 67,4316 76,4337 83,4352 87,4361 89,4364
+ 89,4365"
+	stroke="#000000" stroke-width="15px" stroke-linejoin="bevel"/>
+<!-- Text -->
+<text xml:space="preserve" x="990" y="4275" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">t</text>
+<!-- Text -->
+<text xml:space="preserve" x="-180" y="3465" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">x(at)</text>
+<!-- Text -->
+<text xml:space="preserve" x="-270" y="4680" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="90" y="4590" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">\frac{t<tspan font-size="96" baseline-shift="sub">0</tspan>{a}</text>
+<!-- Line -->
+<defs>
+<clipPath id="cp6">
+	<path clip-rule="evenodd" d="M -1362,348 H 4512 V 4744 H -1362 z
+		M 2858,3462 2880,3440 2903,3462 2887,3323 2873,3323z"/>
+</clipPath>
+</defs>
+<polyline points=" 2880,4500 2880,3330" clip-path="url(#cp6)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 2880,3330 -->
+<polygon points=" 2903,3462 2880,3350 2858,3462 2880,3440 2903,3462"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp7">
+	<path clip-rule="evenodd" d="M -1362,348 H 4512 V 4744 H -1362 z
+		M 4368,4343 4390,4365 4368,4388 4507,4372 4507,4358z"/>
+</clipPath>
+</defs>
+<polyline points=" 1530,4365 4500,4365" clip-path="url(#cp7)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 4500,4365 -->
+<polygon points=" 4368,4388 4480,4365 4368,4343 4390,4365 4368,4388"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<polyline points=" 1845,4365 1847,4362 1851,4356 1859,4345 1870,4329 1886,4307 1906,4279 1929,4246
+ 1955,4209 1984,4169 2013,4129 2043,4088 2073,4048 2101,4010 2129,3975 2155,3942
+ 2179,3912 2202,3885 2223,3861 2243,3840 2261,3822 2279,3806 2295,3792 2311,3781
+ 2326,3772 2340,3765 2358,3758 2376,3754 2394,3752 2411,3753 2429,3756 2446,3761
+ 2463,3768 2480,3778 2497,3788 2514,3801 2530,3814 2546,3829 2561,3844 2576,3859
+ 2590,3875 2604,3890 2617,3904 2630,3919 2643,3932 2655,3945 2671,3960 2686,3974
+ 2702,3987 2719,3999 2736,4011 2753,4021 2771,4031 2788,4041 2806,4049 2823,4057
+ 2840,4063 2856,4069 2871,4075 2886,4079 2900,4084 2914,4088 2927,4091 2941,4095
+ 2955,4099 2969,4102 2984,4105 2999,4108 3015,4111 3031,4113 3048,4115 3065,4117
+ 3082,4118 3100,4119 3118,4119 3136,4119 3154,4119 3173,4118 3189,4116 3205,4115
+ 3223,4113 3241,4111 3260,4110 3280,4108 3301,4106 3323,4104 3346,4103 3369,4101
+ 3392,4100 3415,4100 3438,4100 3461,4100 3484,4102 3506,4103 3527,4106 3548,4109
+ 3569,4113 3589,4118 3609,4123 3629,4130 3649,4138 3671,4147 3693,4158 3716,4171
+ 3741,4185 3768,4202 3797,4220 3827,4239 3857,4260 3888,4281 3917,4302 3944,4321
+ 3966,4337 3983,4349 3995,4358 4002,4363 4005,4365"
+	stroke="#000000" stroke-width="15px" stroke-linejoin="bevel"/>
+<!-- Text -->
+<text xml:space="preserve" x="2970" y="3465" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">x(t)</text>
+<!-- Text -->
+<text xml:space="preserve" x="4410" y="4275" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">t</text>
+<!-- Text -->
+<text xml:space="preserve" x="4005" y="4590" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">\frac{t<tspan font-size="96" baseline-shift="sub">0</tspan>{a}</text>
+<!-- Text -->
+<text xml:space="preserve" x="2880" y="4680" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="-1125" y="3015" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">* {\bf Compresi\'on}: a&gt;1.</text>
+<!-- Text -->
+<text xml:space="preserve" x="1800" y="3015" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">* {\bf Expansi\'on}: a&lt;1.</text>
+</g>
+</svg>

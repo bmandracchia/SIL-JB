@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.8b -->
+<!-- CreationDate: 2025-10-30 19:43:16 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="178pt" height="88pt"
+	viewBox="4128 1101 2814 1393">
+<g fill="none">
+<!-- Line -->
+<polyline points=" 4320,2250 5220,2250 5220,1530 5400,1530 5400,2250 6660,2250"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M 4128,1101 H 6942 V 2494 H 4128 z
+		M 5205,1265 5220,1250 5235,1265 5227,1163 5213,1163z"/>
+</clipPath>
+</defs>
+<polyline points=" 5220,2385 5220,1170" clip-path="url(#cp0)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 5220,1170 -->
+<polygon points=" 5235,1265 5220,1190 5205,1265 5220,1250 5235,1265"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp1">
+	<path clip-rule="evenodd" d="M 4128,1101 H 6942 V 2494 H 4128 z
+		M 6835,2235 6850,2250 6835,2265 6937,2257 6937,2243z"/>
+</clipPath>
+</defs>
+<polyline points=" 4140,2250 6930,2250" clip-path="url(#cp1)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 6930,2250 -->
+<polygon points=" 6835,2265 6910,2250 6835,2235 6850,2250 6835,2265"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8" fill="#000000"/>
+<!-- Text -->
+<text xml:space="preserve" x="5310" y="1260" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">\delta<tspan font-size="96" baseline-shift="sub">\</tspan>Delta(t)</text>
+<!-- Text -->
+<text xml:space="preserve" x="5130" y="1575" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="end">\frac{1}{\Delta}</text>
+<!-- Text -->
+<text xml:space="preserve" x="5175" y="2430" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="5400" y="2430" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="middle">\Delta</text>
+<!-- Text -->
+<text xml:space="preserve" x="6840" y="2205" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">t</text>
+</g>
+</svg>
