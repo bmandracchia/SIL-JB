@@ -29,6 +29,7 @@ project:
         - file: content/102.ipynb
         - file: content/103.ipynb
         - file: content/104.ipynb
+      
   exports:
     - format: pdf
       date: 1 Jan 2026

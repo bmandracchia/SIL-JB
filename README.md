@@ -1,7 +1,6 @@
-# Jupyter Book
+# Sistemas Lineales - Jupyter Book
 
 Este repositorio contiene un Jupyter Book construido con [MyST Markdown](https://mystmd.org/guide).
-Úsalo para escribir texto narrativo, cuadernos ejecutables, figuras, ejercicios y soluciones.
 
 ## Instalación
 
@@ -25,7 +24,7 @@ pip install bokeh plotly matplotlib
 
 ```bash
 # Desde la raíz del repositorio (donde está myst.yml)
-jupyter-book init
+jupyter book init
 # Sigue el enlace para abrir el sitio generado en tu navegador
 ```
 
@@ -33,7 +32,7 @@ jupyter-book init
 
 ```bash
 # Desde la raíz del repositorio (donde está myst.yml)
-jupyter-book start
+jupyter book start
 
 # Sigue el enlace para abrir el sitio generado en tu navegador
 ```
@@ -42,7 +41,7 @@ Utilidades comunes:
 
 ```bash
 # Limpiar compilaciones previas
-jupyter-book clean .
+jupyter book clean .
 ```
 
 ## Estructura del repositorio (sugerida)
@@ -67,16 +66,15 @@ jupyter-book clean .
 
 1. **Crea una rama**:
    `git checkout -b feature/tu-tema`
-2. **Añade/modifica contenido** en `content/` y actualiza `_toc.yml` para que las nuevas páginas aparezcan en el libro.
+2. **Añade/modifica contenido** en `content/` y actualiza `myst.yml` para que las nuevas páginas aparezcan en el libro.
 3. **Ejecuta el script de conversión de imágenes** si añadiste PDFs vectoriales (ver *Conversión de imágenes* más abajo).
-4. **Compila localmente** para revisar enlaces, figuras y formato: `jupyter-book build .`
+4. **Compila localmente** para revisar enlaces, figuras y formato: `jupyter book start`
 5. **Abre un Pull Request** con un resumen conciso de los cambios y, si puedes, capturas de pantalla de las páginas clave.
 
 ### Guías de estilo para el contenido
 
-* Prefiere **MyST Markdown** (`.md`) frente a `.rst`.
+* Prefiere **Jupyter Notebooks** (`.ipynb`) frente a **MyST Markdown** (`.md`).
 * Usa encabezados semánticos (`#`, `##`, `###`…).
-* Mantén las líneas relativamente cortas (~100–120 caracteres) para diffs más limpios.
 * Nombra las figuras de forma descriptiva y colócalas en `content/figures/`.
 * En cuadernos, limpia salidas innecesarias y procura tiempos de ejecución razonables.
 
@@ -96,9 +94,7 @@ Usa la directiva `figure` de MyST (funciona con PNG/SVG/PDF):
 ```
 ````
 
-```{tip}
-Para facilitar la exportación en diferentes formatos, no especifiques la extensión de la figura. Así el script de exportación puede buscar el mejor formato.
-```
+>Para facilitar la exportación en diferentes formatos, no especifiques la extensión de la figura. Así el script de exportación puede buscar el mejor formato.
 
 ## Ejercicios y soluciones
 
@@ -122,25 +118,6 @@ Considera la función cuadrática \(f(x) = (x-3)^2\).
 - Un paso: \(x_{k+1} = x_k - \eta\,2(x_k-3)\).
 ```
 ````
-
-lo que se convierte en:
-
-```{exercise} gradient-descent-basic
-:label: ex-gd-basic
-:class: dropdown
-
-Considera la función cuadrática \(f(x) = (x-3)^2\).
-1) Calcula el gradiente.
-2) Muestra una iteración de descenso de gradiente con paso \(\eta\).
-
-```
-
-```{solution} ex-gd-basic
-:class: dropdown
-
-- \(\nabla f(x)=2(x-3)\).  
-- Un paso: \(x_{k+1} = x_k - \eta\,2(x_k-3)\).
-```
 
 * `:class: dropdown` hace el bloque colapsable.
 * Enlaza a un ejercicio mediante `{ref}` o su etiqueta (p. ej., `{ref}`ex-gd-basic`).
@@ -167,23 +144,6 @@ Cuidado con imágenes grandes: optimiza o conviértelas a SVG/PNG antes.
 Resume la idea central y oculta detalles por defecto.
 ```
 ````
-
-```{note}
-Esta es una nota concisa para lectores.
-```
-
-```{tip}
-Truco: mantén las celdas de código pequeñas y enfocadas.
-```
-
-```{warning}
-Cuidado con imágenes grandes: optimiza o conviértelas a SVG/PNG antes.
-```
-
-```{admonition} Idea clave
-:class: dropdown
-Resume la idea central y oculta detalles por defecto.
-```
 
 ## Celdas de código ejecutables
 
