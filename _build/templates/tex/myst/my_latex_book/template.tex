@@ -42,19 +42,19 @@
 %   ##  -> section
 %   ### -> subsection
 
-% Save the original sectioning commands
-\let\OrigSection\section
-\let\OrigSubsection\subsection
-\let\OrigSubsubsection\subsubsection
+% % Save the original sectioning commands
+% \let\OrigSection\section
+% \let\OrigSubsection\subsection
+% \let\OrigSubsubsection\subsubsection
 
-% 1st level: behave like chapter
-\renewcommand{\section}{\chapter}
+% % 1st level: behave like chapter
+% \renewcommand{\section}{\chapter}
 
-% 2nd level: behave like *original* section
-\renewcommand{\subsection}{\OrigSection}
+% % 2nd level: behave like *original* section
+% \renewcommand{\subsection}{\OrigSection}
 
-% 3rd level: behave like *original* subsection
-\renewcommand{\subsubsection}{\OrigSubsection}
+% % 3rd level: behave like *original* subsection
+% \renewcommand{\subsubsection}{\OrigSubsection}
 
 
 %----------------------------------------------------------------------------------------
