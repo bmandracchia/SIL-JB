@@ -1,0 +1,329 @@
+/* =========================================================
+   MyST / Jupyter Book Custom Theme
+   Light + Nord Dark
+   ========================================================= */
+
+/* Optional: better academic-looking font stack */
+:root {
+  --font-body: "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-heading: "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: "Fira Code", "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+
+  --bg: #ffffff;
+  --bg-secondary: #9ca3af;
+  --bg-soft: #f1f3f5;
+  --text: #24292f;
+  --text-muted: #57606a;
+  --heading: #111827;
+  --link: #2563eb;
+  --link-hover: #1d4ed8;
+  --border: #d8dee4;
+  --code-bg: #f6f8fa;
+  --code-text: #1f2937;
+  --admonition-bg: #f8fafc;
+  --shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+/* Nord dark */
+html[data-theme="dark"] {
+  --bg: #2e3440;
+  --bg-secondary: #3b4252;
+  --bg-soft: #434c5e;
+  --text: #d8dee9;
+  --text-muted: #aeb7c6;
+  --heading: #eceff4;
+  --link: #88c0d0;
+  --link-hover: #8fbcbb;
+  --border: #4c566a;
+  --code-bg: #3b4252;
+  --code-text: #e5e9f0;
+  --admonition-bg: #343b49;
+  --shadow: 0 4px 18px rgba(0, 0, 0, 0.25);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #2e3440;
+    --bg-secondary: #9ca3af;
+    --bg-soft: #434c5e;
+    --text: #d8dee9;
+    --text-muted: #aeb7c6;
+    --heading: #eceff4;
+    --link: #88c0d0;
+    --link-hover: #8fbcbb;
+    --border: #4c566a;
+    --code-bg: #3b4252;
+    --code-text: #e5e9f0;
+    --admonition-bg: #343b49;
+    --shadow: 0 4px 18px rgba(0, 0, 0, 0.25);
+  }
+}
+
+/* =========================================================
+   General layout
+   ========================================================= */
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 17px;
+  line-height: 1.75;
+  letter-spacing: 0.005em;
+}
+
+/* Main article width and spacing */
+.bd-main .bd-content .bd-article-container {
+  max-width: 900px;
+}
+
+.bd-article {
+  padding-top: 1.5rem;
+}
+
+/* Smooth transitions between light/dark */
+body,
+.bd-sidebar,
+.bd-toc,
+.admonition,
+pre,
+code,
+table,
+blockquote {
+  transition: background-color 0.25s ease, color 0.25s ease, border-color 0.25s ease;
+}
+
+/* =========================================================
+   Typography
+   ========================================================= */
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--heading);
+  font-family: var(--font-heading);
+  font-weight: 750;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+  margin-top: 2.2rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.45rem;
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.85rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.35rem;
+}
+
+h3 {
+  font-size: 1.45rem;
+}
+
+p {
+  margin-bottom: 1.1rem;
+}
+
+strong {
+  color: var(--heading);
+  font-weight: 700;
+}
+
+em {
+  color: var(--text-muted);
+}
+
+/* Links */
+a {
+  color: var(--link);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Lists */
+ul, ol {
+  padding-left: 1.4rem;
+  margin-bottom: 1.2rem;
+}
+
+li {
+  margin-bottom: 0.35rem;
+}
+
+/* =========================================================
+   Code
+   ========================================================= */
+
+code {
+  font-family: var(--font-mono);
+  background: var(--code-bg);
+  color: var(--code-text);
+  font-size: 0.9em;
+  padding: 0.18em 0.42em;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+
+pre {
+  font-family: var(--font-mono);
+  background: var(--code-bg);
+  color: var(--code-text);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.1rem 1.25rem;
+  overflow-x: auto;
+  box-shadow: var(--shadow);
+}
+
+pre code {
+  border: none;
+  padding: 0;
+  background: transparent;
+}
+
+/* Jupyter Book / Pygments blocks */
+div.highlight {
+  background: var(--code-bg);
+  border-radius: 12px;
+}
+
+div.highlight pre {
+  margin: 1rem 0;
+}
+
+/* =========================================================
+   Admonitions
+   ========================================================= */
+
+.admonition {
+  background: var(--admonition-bg);
+  border: 1px solid var(--border);
+  border-left: 5px solid var(--link);
+  border-radius: 12px;
+  padding: 1rem 1.2rem;
+  box-shadow: var(--shadow);
+}
+
+.admonition-title {
+  font-weight: 750;
+  color: var(--heading);
+  margin-bottom: 0.5rem;
+}
+
+/* =========================================================
+   Tables
+   ========================================================= */
+
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.4rem 0;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+
+th {
+  background: var(--bg-soft);
+  color: var(--heading);
+  font-weight: 700;
+}
+
+th, td {
+  padding: 0.75rem 0.9rem;
+  border-bottom: 1px solid var(--border);
+}
+
+tr:last-child td {
+  border-bottom: none;
+}
+
+tr:nth-child(even) td {
+  background: var(--bg-secondary);
+}
+
+/* =========================================================
+   Blockquotes
+   ========================================================= */
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  border-left: 5px solid var(--link);
+  background: var(--bg-secondary);
+  color: var(--text-muted);
+  border-radius: 0 12px 12px 0;
+}
+
+/* =========================================================
+   Math
+   ========================================================= */
+
+.math,
+mjx-container {
+  color: var(--text);
+}
+
+div.math {
+  overflow-x: auto;
+  padding: 0.5rem 0;
+}
+
+/* =========================================================
+   Figures and images
+   ========================================================= */
+
+img {
+  border-radius: 10px;
+}
+
+figure {
+  margin: 1.8rem 0;
+}
+
+figcaption {
+  color: var(--text-muted);
+  font-size: 0.92rem;
+  text-align: center;
+  margin-top: 0.6rem;
+}
+
+/* =========================================================
+   Navigation / sidebars
+   ========================================================= */
+
+.bd-sidebar,
+.bd-toc {
+  font-size: 0.95rem;
+}
+
+.bd-sidebar a,
+.bd-toc a {
+  color: var(--text-muted);
+}
+
+.bd-sidebar a:hover,
+.bd-toc a:hover {
+  color: var(--link);
+}
+
+/* =========================================================
+   Horizontal rule
+   ========================================================= */
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
