@@ -49,6 +49,9 @@ project:
         - file: content/703.ipynb
         - file: content/704.ipynb
         - file: content/705.ipynb
+    - title: Appendices
+      children:
+        - file: content/how_to_contribute.md
       
   exports:
     - format: pdf

@@ -1,6 +1,4 @@
-# Sistemas Lineales — Jupyter Book
-
-Este repositorio contiene un Jupyter Book construido con MyST Markdown para la docencia de Sistemas Lineales. Incluye contenido teórico, ejemplos y visualizaciones interactivas.
+# Como Contribuir
 
 ---
 
@@ -116,7 +114,18 @@ plt.show()
 ## Figuras
 
 ````md
-```{figure} figures/my_plot
+```{figure} figures/cameraman
+
+---
+:name: fig-my-plot
+:width: 60%
+---
+
+**Figura:** Descripción breve. Referencia: {numref}`fig-my-plot`
+```
+````
+
+```{figure} figures/cameraman
 
 ---
 :name: fig-my-plot
@@ -126,7 +135,7 @@ plt.show()
 **Figura:** Descripción breve. Referencia: {numref}`fig-my-plot`
 ```
 
-````
+
 ---
 ## Definiciones
 
@@ -135,6 +144,11 @@ plt.show()
 Texto de la definición
 ```
 ````
+
+```{important .simple icon=false} Titulo
+Texto de la definición
+```
+
 ---
 
 ## Ejercicios y soluciones
@@ -155,6 +169,15 @@ $$
 
 ````
 
+```{warning .simple icon=false} Ejercicio 1
+:class: ejercicio
+
+Resuelve:
+$$
+x' + x = 0
+$$
+```
+
 Solución:
 
 ````md
@@ -164,8 +187,16 @@ Solución:
 $$
 x(t) = Ce^{-t}
 $$
-
+```
 ````
+
+```{tip .simple icon=false} Solución 1
+:class: solucion dropdown
+
+$$
+x(t) = Ce^{-t}
+$$
+```
 
 Notas:
 
@@ -183,6 +214,48 @@ np.sqrt(2)
 ```
 
 ````
+
+---
+
+## Otros Avisos MyST 
+
+Usa admoniciones integradas para notas, consejos, advertencias, etc.
+
+````md
+```{note} Nota
+Esta es una nota concisa para lectores.
+```
+
+```{tip}
+Truco: mantén las celdas de código pequeñas y enfocadas.
+```
+
+```{warning} Atención
+Cuidado con imágenes grandes: optimiza o conviértelas a SVG/PNG antes.
+```
+
+```{admonition} Idea clave
+:class: dropdown
+Resume la idea central y oculta detalles por defecto.
+```
+````
+
+```{note} Nota
+Esta es una nota concisa para lectores.
+```
+
+```{tip}
+Truco: mantén las celdas de código pequeñas y enfocadas.
+```
+
+```{warning} Atención
+Cuidado con imágenes grandes: optimiza o conviértelas a SVG/PNG antes.
+```
+
+```{admonition} Idea clave
+:class: dropdown
+Resume la idea central y oculta detalles por defecto.
+```
 
 ---
 
@@ -224,6 +297,9 @@ $$
 y(t) = x(t) * h(t)
 $$
 ```
+$$
+y(t) = x(t) * h(t)
+$$
 
 * Mantener una notación consistente en todo el libro:
 
@@ -243,30 +319,6 @@ $$
 
 
 ### Ejercicios y soluciones
-
-Los ejercicios se escriben con admonitions:
-
-````md
-```{warning .simple icon=false} Ejercicio 1.1
-:class: ejercicio
-
-Enunciado del ejercicio.
-```
-
-````
-
-Las soluciones se escriben como bloques desplegables:
-
-````md
-```{tip .simple icon=false} Solución 1.1
-:class: solucion dropdown
-
-Desarrollo de la solución.
-```
-
-````
-
-Convenciones:
 
 - Numerar manualmente como `Ejercicio número`, por ejemplo `Ejercicio 3`.
 - Usar la misma numeración para la solución correspondiente.
