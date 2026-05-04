@@ -6,9 +6,9 @@ project:
   # description:
   # keywords: []
   authors: 
-    - name: Colaborador 1
-      orcid: 0000-0000-0000-0000
-      affiliation: Universidad de Valladolid
+    # - name: Colaborador 1
+    #   orcid: 0000-0000-0000-0000
+    #   affiliation: Universidad de Valladolid
   #   - name: Colaborador 2
   #     affiliation: Universidad de Valladolid
   #   - name: Colaborador 3
@@ -94,7 +94,7 @@ site:
   parts:
     primary_sidebar_footer: content/primary-sidebar-footer.md
   options:
-    hide_title_block: true   
+    hide_title_block: false   
     favicon: favicon.png
     logo: site_logo.png
     style: style.css
