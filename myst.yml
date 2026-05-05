@@ -26,8 +26,12 @@ project:
         - file: content/110-tema1.ipynb
           children:
             - file: content/111.ipynb
+            - file: content/111b.ipynb
             - file: content/112.ipynb
             - file: content/113.ipynb
+              children:
+              - file: content/113a.ipynb
+              - file: content/113b.ipynb
             - file: content/114.ipynb
             - file: content/115.ipynb
     - file: content/300-bloque2.ipynb
