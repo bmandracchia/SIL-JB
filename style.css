@@ -179,7 +179,7 @@ pre {
   color: var(--code-text);
   border: 1px solid var(--border);
   border-radius: 12px;
-  padding: 1.1rem 1.25rem;
+  padding: 1.1rem 1.25rem !important;
   overflow-x: auto;
   box-shadow: var(--shadow);
 }
