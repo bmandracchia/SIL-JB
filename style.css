@@ -236,8 +236,8 @@ table {
 }
 
 th {
-  background: var(--bg-soft);
-  color: var(--heading);
+  /* background: var(--bg-soft);
+  color: var(--heading); */
   font-weight: 700;
 }
 
@@ -250,9 +250,9 @@ tr:last-child td {
   border-bottom: none;
 }
 
-tr:nth-child(even) td {
+/* tr:nth-child(even) td {
   background: var(--bg-secondary);
-}
+} */
 
 /* =========================================================
    Blockquotes
