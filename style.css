@@ -18,7 +18,7 @@
   --link: #2563eb;
   --link-hover: #1d4ed8;
   --border: #d8dee4;
-  --code-bg: lightslategray;
+  --code-bg: lightslategrey;
   --code-text: #1f2937;
   --admonition-bg: #f8fafc;
   --shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
@@ -26,7 +26,7 @@
 
 /* Nord dark */
 html[data-theme="dark"] {
-  --bg: #2e3440;
+  --bg: #4c586e;
   --bg-secondary: #3b4252;
   --bg-soft: #434c5e;
   --text: #d8dee9;
@@ -41,7 +41,7 @@ html[data-theme="dark"] {
   --shadow: 0 4px 18px rgba(0, 0, 0, 0.25);
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #2e3440;
     --bg-secondary: #9ca3af;
@@ -52,12 +52,13 @@ html[data-theme="dark"] {
     --link: #88c0d0;
     --link-hover: #8fbcbb;
     --border: #4c566a;
-    /* --code-bg: #3b4252; */
+    --code-bg: #3b4252;
     --code-text: #e5e9f0;
     --admonition-bg: #343b49;
     --shadow: 0 4px 18px rgba(0, 0, 0, 0.25);
   }
-}
+} 
+*/
 
 /* =========================================================
    General layout
@@ -166,7 +167,7 @@ li {
 code {
   font-family: var(--font-mono);
   background: var(--code-bg);
-  color: var(--code-text);
+  /* color: var(--code-text); */
   font-size: 0.9em;
   padding: 0.18em 0.42em;
   border-radius: 6px;
@@ -261,8 +262,8 @@ blockquote {
   margin: 1.5rem 0;
   padding: 1rem 1.25rem;
   border-left: 5px solid var(--link);
-  background: var(--bg-secondary);
-  color: var(--text-muted);
+  /* background: var(--bg-secondary);
+  color: var(--text-muted); */
   border-radius: 0 12px 12px 0;
 }
 
