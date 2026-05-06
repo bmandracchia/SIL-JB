@@ -51,6 +51,7 @@ project:
       children:
         - file: content/701.ipynb
         - file: content/702.ipynb
+        - file: content/702b.ipynb
         - file: content/703.ipynb
         - file: content/704.ipynb
         - file: content/705.ipynb
@@ -79,6 +80,7 @@ project:
         # - content/700-tema7.ipynb
         # - content/701.ipynb
         # - content/702.ipynb
+        # - content/702b.ipynb
         # - content/703.ipynb
         # - content/704.ipynb
         # - content/705.ipynb
