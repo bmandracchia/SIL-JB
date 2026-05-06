@@ -81,6 +81,8 @@ def style_math_axes(p, x_range, y_range, prolong_axes=[0.05, 0.05], margins=[0, 
                        text_font_size="11pt",
                        anchor="top_left",
                        x_offset=12, y_offset=-3)) # A la derecha de la flecha
+    
+    p.toolbar.logo = None
 
     return p
 
