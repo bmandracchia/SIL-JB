@@ -50,6 +50,7 @@ jupyter book clean .
 │  ├─ 001-chapter1.ipynb
 │  └─ figures/             # imágenes
 ├─ tools/                  # utilidades de conversión
+├─ utils/                  # Métodos python útiles
 ├─ myst.yml                # configuración del libro
 ├─ index.md
 └─ README.md
