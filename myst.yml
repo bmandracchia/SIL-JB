@@ -56,6 +56,7 @@ project:
         - file: content/703.ipynb
         - file: content/704.ipynb
         - file: content/705.ipynb
+        - file: content/706.ipynb
     - title: Appendices
       children:
         - file: content/how_to_contribute.md
@@ -85,6 +86,7 @@ project:
         # - content/703.ipynb
         # - content/704.ipynb
         # - content/705.ipynb
+        # - content/706.ipynb
       title: Sistemas Lineales
       subtitle: Apuntes para el curso de Sistemas Lineales
       logo: "site_logo.png"
