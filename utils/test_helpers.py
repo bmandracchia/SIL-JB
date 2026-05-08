@@ -1,4 +1,3 @@
-
 from IPython.display import HTML, display
 import uuid
 
@@ -204,7 +203,8 @@ def create_numeric_input_exercise(solution, tolerance=0):
 
 def create_true_false_exercise(statement, solution=True):
     """
-    True/False exercise displayed in a single line.
+    True/False exercise displayed with the statement on top 
+    and options on the line below.
     
     Parameters
     ----------
@@ -233,38 +233,43 @@ def create_true_false_exercise(statement, solution=True):
     <div style="
         border:1px solid #ccc;
         border-radius:10px;
-        padding:12px;
+        padding:15px;
         margin:10px 0;
         background:#f8f9fa;
-        display:flex;
-        align-items:center;
-        gap:15px;
-        flex-wrap:wrap;
     ">
 
-        <span><strong>{statement}</strong></span>
+        <div style="margin-bottom: 15px;">
+            <span><strong>{statement}</strong></span>
+        </div>
 
-        <label>
-            <input type="radio" name="{radio_name}" value="true">
-            Verdadero
-        </label>
-
-        <label>
-            <input type="radio" name="{radio_name}" value="false">
-            Falso
-        </label>
-
-        <button id="{button_id}" style="
-            padding:4px 10px;
-            border-radius:6px;
-            cursor:pointer;
+        <div style="
+            display:flex;
+            align-items:center;
+            gap:15px;
+            flex-wrap:wrap;
         ">
-            Evaluar
-        </button>
+            <label style="cursor:pointer;">
+                <input type="radio" name="{radio_name}" value="true">
+                Verdadero
+            </label>
 
-        <span id="{feedback_id}" style="
-            font-weight:bold;
-        "></span>
+            <label style="cursor:pointer;">
+                <input type="radio" name="{radio_name}" value="false">
+                Falso
+            </label>
+
+            <button id="{button_id}" style="
+                padding:4px 10px;
+                border-radius:6px;
+                cursor:pointer;
+            ">
+                Evaluar
+            </button>
+
+            <span id="{feedback_id}" style="
+                font-weight:bold;
+            "></span>
+        </div>
 
     </div>
 
