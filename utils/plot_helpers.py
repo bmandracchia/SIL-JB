@@ -105,7 +105,7 @@ def add_math_ticks(p, xticks=None, xtick_labels=None, yticks=None, ytick_labels=
         
         for x, label in zip(xticks, xtick_labels):
             lbl = Label(x=x, y=0, text=label, text_align='center', text_baseline='middle',
-                        y_offset=-15, text_font_size=font_size, text_color="black")
+                        y_offset=-20, text_font_size=font_size, text_color="black")
             p.add_layout(lbl)
 
     # --- EJE Y ---
