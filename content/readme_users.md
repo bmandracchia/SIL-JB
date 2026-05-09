@@ -21,8 +21,8 @@ Al final de cada tema hay una sección de ejercicios resueltos y de ejercicios d
 ---
 
 ### Notación matemática
-La notación matemética que se mantiene a lo largo de todo el repositorio es:
-  * entrada: `$x(t)$`
+La notación matemática que se mantiene a lo largo de todo el repositorio es:
+  * entrada: $x(t)$
   * salida: `$y(t)$`
   * respuesta impulsional: `$h(t)$`
   * tiempo continuo: `$t$`
