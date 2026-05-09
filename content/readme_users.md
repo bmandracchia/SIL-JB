@@ -13,8 +13,11 @@ Este repositorio contiene un Jupyter Book para la docencia de Sistemas Lineales.
 ├─ Tema 7. La Transformada Z/
 ```
 
+---
+
 En cada tema se pueden encontrar sub-apartados que contienen Definiciones, Figuras, Ejercicios y Soluciones, Notas.
 Al final de cada tema hay una sección de ejercicios resueltos y de ejercicios de autoevaluación.
+
 ---
 
 ### Notación matemática
