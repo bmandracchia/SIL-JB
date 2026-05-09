@@ -7,10 +7,11 @@ Este repositorio contiene un Jupyter Book para la docencia de Sistemas Lineales.
 ## Estructura del repositorio
 
 ```
-
-├─ Tema 1. Introducción a los sistemas lineales/               
-├─ Tema 3. Análisis de Fourier para señales en tiempo continuo/             
-├─ Tema 7. La Transformada Z/
+├─ Sistemas Lineales: Introducción y contenidos
+├─ Tema 1. Señales y Sistemas. Introducción a los sistemas lineales             
+├─ Tema 3. Análisis espectral. Análisis de Fourier para señales en tiempo continuo           
+├─ Tema 7. La Transformada Z
+├─ Apéndices
 ```
 
 ---
@@ -23,10 +24,10 @@ Al final de cada tema hay una sección de ejercicios resueltos y de ejercicios d
 ### Notación matemática
 La notación matemática que se mantiene a lo largo de todo el repositorio es:
   * entrada: $x(t)$
-  * salida: `$y(t)$`
-  * respuesta impulsional: `$h(t)$`
-  * tiempo continuo: `$t$`
-  * tiempo discreto: `$n$`
+  * salida: $y(t)$
+  * respuesta impulsional: $h(t)$
+  * tiempo continuo: $t$
+  * tiempo discreto: $n$
 
 ### Texto docente
 
