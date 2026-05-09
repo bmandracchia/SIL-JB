@@ -7,7 +7,7 @@ Este repositorio contiene un Jupyter Book para la docencia de Sistemas Lineales.
 ## Estructura del repositorio
 
 ```
-.
+
 ├─ Tema 1. Introducción a los sistemas lineales/               
 ├─ Tema 3. Análisis de Fourier para señales en tiempo continuo/             
 ├─ Tema 7. La Transformada Z/
