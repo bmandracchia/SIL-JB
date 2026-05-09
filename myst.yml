@@ -61,6 +61,7 @@ project:
     - title: Appendices
       children:
         - file: content/how_to_contribute.md
+        - file: content/readme_users.md
       
   exports:
     - format: pdf
