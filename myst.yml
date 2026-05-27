@@ -35,20 +35,21 @@ project:
             - file: content/114.ipynb
             - file: content/115.ipynb
             - file: content/116.ipynb
-    - file: content/300-bloque2.ipynb
+    - file: content/bloque2.ipynb
       children:
-        - file: content/310-tema3.ipynb
+        - file: content/300-tema3.ipynb
+        - file: content/310.ipynb
+        - file: content/320.ipynb
           children:
-            - file: content/3101.ipynb
-            - file: content/3102.ipynb
-            - file: content/3103.ipynb
-            - file: content/3104.ipynb
-            - file: content/3105.ipynb
-            - file: content/3106.ipynb
-            - file: content/3107.ipynb
-            - file: content/3108.ipynb
-            - file: content/3109.ipynb
-            - file: content/3110.ipynb
+            - file: content/321.ipynb
+            - file: content/322.ipynb
+            - file: content/323.ipynb
+            - file: content/324.ipynb
+            - file: content/325.ipynb
+            - file: content/326.ipynb
+            - file: content/327.ipynb
+            - file: content/328.ipynb
+        - file: content/340.ipynb
     - file: content/700-tema7.ipynb
       children:
         - file: content/701.ipynb
