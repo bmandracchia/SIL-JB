@@ -59,6 +59,7 @@ project:
         - file: content/704.ipynb
         - file: content/705.ipynb
         - file: content/706.ipynb
+        - file: content/707.ipynb
     - title: Appendices
       children:
         - file: content/how_to_contribute.md
