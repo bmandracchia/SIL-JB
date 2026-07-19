@@ -35,31 +35,35 @@ project:
             - file: content/114.ipynb
             - file: content/115.ipynb
             - file: content/116.ipynb
+            - file: content/116b.ipynb
     - file: content/bloque2.ipynb
       children:
         - file: content/300-tema3.ipynb
-        - file: content/310.ipynb
-        - file: content/320.ipynb
           children:
-            - file: content/321.ipynb
-            - file: content/322.ipynb
-            - file: content/323.ipynb
-            - file: content/324.ipynb
-            - file: content/325.ipynb
-            - file: content/326.ipynb
-            - file: content/327.ipynb
-            - file: content/328.ipynb
-        - file: content/340.ipynb
-    - file: content/700-tema7.ipynb
-      children:
-        - file: content/701.ipynb
-        - file: content/702.ipynb
-        - file: content/702b.ipynb
-        - file: content/703.ipynb
-        - file: content/704.ipynb
-        - file: content/705.ipynb
-        - file: content/706.ipynb
-        - file: content/707.ipynb
+          - file: content/310.ipynb
+          - file: content/320.ipynb
+            children:
+              - file: content/321.ipynb
+              - file: content/322.ipynb
+              - file: content/323.ipynb
+              - file: content/324.ipynb
+              - file: content/325.ipynb
+              - file: content/326.ipynb
+              - file: content/327.ipynb
+              - file: content/328.ipynb
+          - file: content/340.ipynb
+    - file: content/700-bloque4
+      children: 
+      - file: content/700-tema7.ipynb
+        children:
+          - file: content/701.ipynb
+          - file: content/702.ipynb
+          - file: content/702b.ipynb
+          - file: content/703.ipynb
+          - file: content/704.ipynb
+          - file: content/705.ipynb
+          - file: content/706.ipynb
+          - file: content/707.ipynb
     - title: Appendices
       children:
         - file: content/how_to_contribute.md
