@@ -236,6 +236,7 @@ def create_true_false_exercise(statement, solution=True):
         padding:15px;
         margin:10px 0;
         background:#f8f9fa;
+        color:black;
     ">
 
         <div style="margin-bottom: 15px;">
@@ -259,8 +260,11 @@ def create_true_false_exercise(statement, solution=True):
             </label>
 
             <button id="{button_id}" style="
-                padding:4px 10px;
+                padding:4px 6px;
+                border:1px solid #6c757d;
                 border-radius:6px;
+                background:#f8f9fa;
+                color:#212529;
                 cursor:pointer;
             ">
                 Evaluar
