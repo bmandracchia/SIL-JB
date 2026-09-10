@@ -1,0 +1,23 @@
+name: autograder
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+
+  # Core numerical/scientific stack
+  - numpy>=1.26
+  - pandas>=2.1
+  - scipy>=1.11
+  - sympy>=1.12
+  - matplotlib>=3.8
+
+  # Jupyter environment and widgets
+  - jupyterlab>=4
+  - notebook>=7
+  - ipykernel>=6
+  - ipywidgets>=8.1
+
+  # Excel output used by evaluate_submissions.py
+  - openpyxl>=3.1
